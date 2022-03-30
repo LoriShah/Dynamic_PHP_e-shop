@@ -10,5 +10,12 @@ CSS for the simple design of the website.
 It displays CRUD functionalities.
 The code contains a lot of comments to help you understand better. 
 
+*************************************************************************************************************************************************************
+IMPORTAND: Replace the password of your root account and the name of your database in the DB connection statement on PHP files, 
+before testing it to a localhost server.
+
+$mysqli = new mysqli('localhost','root','rootpassword','database_name');
+***************************************************************************************************************************************************************
+
 !!!You can download the project and use it for your own projects.!!!
 
